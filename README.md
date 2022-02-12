@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @captain-Akshay
+- 👀 I’m interested in AI-ML & looking forward for open source and 
+- 🌱 I’m currently learning Devop with Little bit of machine learning on the side.  
+- 💞️ I’m looking to collaborate on everything related to topics i metioned above
+- 📫 How to reach me .My twitter link is in the profile
