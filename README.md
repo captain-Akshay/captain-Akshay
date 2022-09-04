@@ -1,6 +1,7 @@
 # 💫 About Me:
 👋 Hi, I’m @captain-Akshay<br>👀 I’m interested in AI-ML & looking forward for open source and <br>🌱 I’m currently learning WebDev Devop with Little bit of machine learning on the side.  <br>💞️ I’m looking to collaborate on everything related to topics i metioned above<br>📫 How to reach me .My twitter link is in the profile
 
+<img align="right" alt="coding" width="350" src="coding.gif">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/akshaysharma1746/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akshay-sharma-76a267203/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/akshay_0503) 
