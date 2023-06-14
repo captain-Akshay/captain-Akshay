@@ -5,7 +5,7 @@
 	<img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=25&duration=6000&color=F24A72&background=77BAFF00&center=true&vCenter=true&lines=I+am+a+Web+Developer..;I+am+a+problem+solver+..">
 </p>
 
-👋 Hi, I’m @captain-Akshay<br>👀 I’m interested in AI-ML & looking forward for open source and <br>🌱 I’m currently learning WebDev Devop with Little bit of machine learning on the side.  <br>💞️ I’m looking to collaborate on everything related to topics i metioned above<br>📫 How to reach me .My twitter link is in the profile
+👋 Hi, I’m @captain-Akshay<br>👀 I’m interested in MERN & AI-ML and looking forward for open source and <br>🌱 I’m currently learning WebDev Devop with Little bit of machine learning on the side.  <br>💞️ I’m looking to collaborate on everything related to topics i metioned above<br>📫 How to reach me .My twitter link is in the profile
 
 <img align="right" alt="coding" width="350" src="coding.gif">
 
